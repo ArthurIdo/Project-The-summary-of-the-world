@@ -1,2 +1,2 @@
-# Project-The-summary-of-the-world
+# The-summary-of-the-world
 Project made for study purposes
