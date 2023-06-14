@@ -1,0 +1,11 @@
+.texto{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+
+}
+
+.fundo{
+    height: 97vh;
+    width: 100%;
+    background-image: url(../img/fundo.png);
+}

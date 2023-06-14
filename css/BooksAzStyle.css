@@ -1,0 +1,16 @@
+.texto{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+
+}
+
+.imagem img{
+    border-radius: 10px;
+    border-style:outset;
+    border-color: black;
+    border-width: 5px;
+}
+
+.ResLivros h3{
+    color: rgb(59, 59, 59);
+}
